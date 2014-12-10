@@ -1,19 +1,17 @@
-# tideline
-### (and zipline)
+# tideline <small>(and zipline)</small>
 
-
-
-Jana Beck (@jebeck)
+### Jana Beck (@jebeck)
 #### Software Engineer, Tidepool
-
-(Tidepool is an open source, not-for-profit effort to build an open data platform and better applications that reduce the burden of type 1 diabetes.)
 
 
 !['Tidepool logo'](images/tidepool_logo.png 'Tidepool logo')
 
+Tidepool is an open source, not-for-profit effort to build an open data platform and better applications that reduce the burden of type 1 diabetes.
+
+
 On the Web:
 
-- [Main](tidepool.org 'Tidepool.org')
+- [Main](http://tidepool.org 'Tidepool.org')
 - [Developer Portal](http://developer.tidepool.io/ 'Tidepool Developer Portal')
 - [On GitHub](https://github.com/tidepool-org/)
 
